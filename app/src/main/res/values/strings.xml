@@ -27,5 +27,8 @@
     <string name="rDC">DC</string>
     <string name="dorsal">Dorsal Preferida</string>
     <string name="otro">Otro Numero</string>
+    <string name="verLista">Ver Lista</string>
+    <string name="ingresarJugador">Ingresar Jugador</string>
+    <string name="verJugadores">Ver Jugadores</string>
 
 </resources>

@@ -13,12 +13,12 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="40dp"
-        android:text="Ver Lista" />
+        android:text="@string/verLista" />
     <Button
         android:id="@+id/botonNuevo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Ingresar Nuevo"
+        android:text="@string/ingresarJugador"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="120dp"
@@ -27,7 +27,7 @@
         android:id="@+id/botonEliminar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Eliminar Comprados"
+        android:text="@string/verJugadores"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="200dp"
