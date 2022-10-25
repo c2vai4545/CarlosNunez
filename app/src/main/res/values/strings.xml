@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">CarlosNunez</string>
+    <array name="dorsal">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>Otro</item>
+    </array>
+    <string name="nombre">Nombre</string>
+    <string name="rut">RUT</string>
+    <string name="posicion">Posicion</string>
+    <string name="rGK">GK</string>
+    <string name="rDFC">DFC</string>
+    <string name="rMC">MC</string>
+    <string name="rEX">EX</string>
+    <string name="rDC">DC</string>
+    <string name="dorsal">Dorsal Preferida</string>
+    <string name="otro">Otro Numero</string>
+
 </resources>
